@@ -8,4 +8,4 @@
 <br>
 네 자리의 숫자가 정확하게 맞으면 게임이 종료됩니다. <br>
 
-<img src="repo/img1.JPG" height="300" alt="HitAndBlowGame" />
+<img src="../repo/img1.JPG" height="300" alt="HitAndBlowGame" />
