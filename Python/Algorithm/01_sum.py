@@ -6,14 +6,14 @@
 # 3. s에 i를 더하여 얻은 값을 다시 s에 저장
 # 4. s 출력
 
-# O(n)
+# O(n) : 계산 횟수가 n이므로
 def sum_n(n):
     s = 0
     for i in range(1, n + 1):
         s = s + i
     return s
 
-# O(1)
+# O(1) : 계산 횟수가 3이므로
 def sum_gaus(n):
     return n * (n + 1) // 2             # // 는 정수 나눗셈을 의미한다.
 
