@@ -15,9 +15,6 @@ def print_all_friends(g, start):
                 done.add(x)
             
 
-
-
-
 fr_info = {
     "Summer": ["John", "Justin", "Mike"],
     "John": ["Summer", "Justin"],
