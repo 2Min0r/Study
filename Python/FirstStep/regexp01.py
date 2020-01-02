@@ -50,7 +50,7 @@ print(m)
 
 
 line = "123 hi 34hello"
-m = re.findall("\d", line, re.IGNORECASE)
+m = re.findall("\\d", line, re.IGNORECASE)
 print(m)
 
 
