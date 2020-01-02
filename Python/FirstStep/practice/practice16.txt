@@ -1,0 +1,16 @@
+# [practice16.txt]
+# coding: utf-8
+
+# 파이썬 실행 불가능 코드
+
+# 16-1
+grep Dutch zen.txt
+
+# 16-2
+two.txt = Arizona 479, 501, 870
+          California 209, 213, 650
+grep [[:digit:]] two.txt
+
+# 16-3
+three.txt = The ghost that says boo haunts the loo.
+grep .oo three.txt
