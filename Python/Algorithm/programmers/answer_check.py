@@ -1,4 +1,4 @@
-# [answercheck.py]
+# [answer_check.py]
 # 모의고사
 
 def solution(answers):
