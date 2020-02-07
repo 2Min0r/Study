@@ -9,6 +9,7 @@ class Solution {
         LinkedList<String> queue = new LinkedList<>();
         LinkedList<String> ok = new LinkedList<>();
         
+        // 1. 모든 경우의 수를 queue에 추가
         for(int i=1; i<10; i++){
             for(int j=1; j<10; j++){
                 for(int k=1; k<10; k++){
@@ -22,6 +23,8 @@ class Solution {
         while(!queue.isEmpty()){
             String info = queue.poll();
             boolean pass = true;
+
+            // 2. queue에서 뺀 값의 스트라이크와 볼과 제시된 스트라이크와 볼 비교
             for(int i=0; i<baseball.length; i++){
                 int s=0;
                 int b=0;
@@ -36,9 +39,11 @@ class Solution {
                     break;
                 }
             }
+            // 3. 일치한다면, ok queue에 추가
             if (pass==true) ok.add(info);
             
         }
+        // 4. 가능한 조합의 개수 출력
         int answer = ok.size();
         return answer;
     }
