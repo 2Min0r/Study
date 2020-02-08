@@ -1,9 +1,6 @@
 // [failureRate.java]
 // 실패율
 
-// [failureRate.java]
-// 실패율
-
 import java.util.*;
 class Solution {
     public int[] solution(int N, int[] stages) {
