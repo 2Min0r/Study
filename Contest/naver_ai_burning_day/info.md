@@ -101,7 +101,21 @@ AI를 응용한 개발 미션을 갖고 다른 사람들과 함께 고민하고 
 
 
 
+#### 제안 기획서
 
+![naver_ai_burning_day_1](..\..\img\Contest\naver_ai_burning_day_1.JPG)
+
+![naver_ai_burning_day_2](..\..\img\Contest\naver_ai_burning_day_2.JPG)
+
+![naver_ai_burning_day_3](..\..\img\Contest\naver_ai_burning_day_3.JPG)
+
+![naver_ai_burning_day_4](..\..\img\Contest\naver_ai_burning_day_4.JPG)
+
+![naver_ai_burning_day_5](..\..\img\Contest\naver_ai_burning_day_5.JPG)
+
+![naver_ai_burning_day_6](..\..\img\Contest\naver_ai_burning_day_6.JPG)
+
+![naver_ai_burning_day_7](..\..\img\Contest\naver_ai_burning_day_7.JPG)
 
 
 
